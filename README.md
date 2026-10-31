@@ -87,7 +87,7 @@ Last run (Oct 29, 2026, ET): PowerShell 7.4.6 on Linux, PSScriptAnalyzer 1.25.0:
 
 ## Related
 
-A fuller paid guide (Windows 11 Fix-It Guide + PowerShell Toolkit) covers startup, disk space, Windows Update and more: https://pcfixitkits.gumroad.com/l/vgkvmp. This repo is free and complete on its own; you don't need the guide to use it.
+I sell a paid guide with these scripts: [Windows 11 Fix-It Guide + PowerShell Toolkit](https://pcfixitkits.gumroad.com/l/vgkvmp), $19. It covers startup, disk space, Windows Update and more. This repo is free and complete on its own; you don't need the guide to use it.
 
 ## License and disclaimers
 
